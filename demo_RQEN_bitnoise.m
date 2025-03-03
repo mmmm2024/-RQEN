@@ -2,7 +2,7 @@
 
 clear; clc; close all; 
 
-addpath function
+%addpath function
 
 r=0.05:0.05:0.5;
 times=50;
