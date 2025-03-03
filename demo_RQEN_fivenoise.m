@@ -2,7 +2,7 @@
 
 clear; clc; close all; 
 
-addpath function
+%addpath function
 d=100;  %Dimension of quaternion measurements
 n=400;  %Dimension of quaternion sparse vectors
 s=4;    %groupsparsity
